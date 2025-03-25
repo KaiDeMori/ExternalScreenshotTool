@@ -15,7 +15,6 @@ Capture partial screenshots with a single command — no fuss, just snap and go!
 
 ## Installation
 1. Clone this repo or download the latest release.  
-2. Build or grab the compiled binary.  
 
 ## Usage
 Open a Terminal or PowerShell in the folder containing the tool, then run:
